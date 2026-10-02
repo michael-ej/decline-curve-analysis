@@ -168,3 +168,5 @@ For upcoming tasks, please refer to the GitHub issues, the Azure DevOps board fo
 For any questions, concerns, or further assistance, please feel free to reach out to the following contacts:
 
 * Knut Utne Hollund `kuho@equinor.com`
+
+Testing Git Workflow
