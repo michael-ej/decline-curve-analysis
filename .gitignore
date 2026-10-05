@@ -344,6 +344,7 @@ __pycache__/
 .Python
 .git/
 outputs/
+output/
 data/
 utils/aml_config
 build/
